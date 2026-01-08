@@ -27,3 +27,10 @@ The landing page is inspired by modern product websites and focuses on clean lay
 
 ## 📁 Project Structure
 
+landing-page/  
+│── index.html  
+│── style.css  
+│── images/  
+
+---
+
