@@ -34,3 +34,9 @@ landing-page/
 
 ---
 
+## 🎯 Objective
+
+The main objective of this project is to practice and demonstrate foundational web development skills, including page layout, styling, spacing, and visual presentation using only HTML and CSS.
+
+---
+
